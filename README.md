@@ -1,4 +1,4 @@
-# 🚖 Ola Ride Insights: End-to-End Data Analysis
+# 🚖 Ola Ride Insights: End-to-End Data Analysi
 
 ## 📌 Project Overview
 This project provides a comprehensive analysis of **Ola's ride-sharing data** to improve operational efficiency and customer satisfaction. By analyzing booking patterns, cancellation reasons, and revenue metrics, this project offers data-driven solutions for urban mobility challenges.
